@@ -1,0 +1,58 @@
+body {
+    background-color: #F4F2EC;
+
+}
+
+/*header*/
+header{
+    background-color: #0E3746;
+
+}
+#title {
+    color: #EAE8DC;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: 700;
+    font-size: 2em;
+    padding: 7px 7px;
+    margin-top: 10px;
+}
+
+#description{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    text-align: center;
+    padding-top: 35px;
+    background-color: #EAE8DC;
+    color: #0E3746;
+
+}
+
+
+
+#display_a{
+    font-size: 3.2em;
+    margin-bottom: 0.5em;
+}
+#display_b{
+    color: rgba(14, 55, 70, 0.67);
+}
+
+#infoText{
+    font-size: 1.7em;
+}
+
+#infoTable{
+    margin: 0 100px 0 350px;
+    font-size: 1.6em;
+}
+.badge-secondary{
+    background-color: #AEA79C;
+    margin-right: 25px;
+}
+#infoTableR1{
+    margin-right: 300px;
+}
+
+.card{
+    margin-left: 150px;
+}
